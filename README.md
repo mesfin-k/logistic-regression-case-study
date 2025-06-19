@@ -55,4 +55,3 @@ Mesfin Kebede
 ## 📄 License
 
 This project is for educational purposes only and developed as part of Springboard’s Data Science Career Track.
-# logistic-regression-case-study
